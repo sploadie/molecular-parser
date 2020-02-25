@@ -1,0 +1,24 @@
+{
+  "name": "molecular-parser",
+  "version": "1.0.0",
+  "description": "Molecule component count string parser for technical test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests implemented in the alloted time.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sploadie/molecule-string-parser.git"
+  },
+  "keywords": [
+    "molecule",
+    "string",
+    "parser"
+  ],
+  "author": "Sploadie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sploadie/molecular-parser/issues"
+  },
+  "homepage": "https://github.com/sploadie/molecular-parser"
+}
